@@ -22,6 +22,17 @@
       "sizeBytes": 315207535,
       "publishedAt": "2026-05-29T11:22:34.969Z",
       "fallback": null
+    },
+    "macos": {
+      "version": "0.2.1",
+      "tag": "v0.2.1",
+      "filename": "OmniStudio_0.2.1_aarch64.dmg",
+      "url": "https://studio.omnimind.com.cn/OmniStudio_0.2.1_aarch64.dmg",
+      "sha256": "3df22f756bda695d3a73899ed20a9ebd7fe502ca1aa7da628729d7b9eb27bb40",
+      "size": 258625830,
+      "sizeBytes": 258625830,
+      "publishedAt": "2026-05-29T14:01:28.830Z",
+      "fallback": null
     }
   },
   "windows": {
@@ -35,6 +46,16 @@
     "publishedAt": "2026-05-29T11:22:34.969Z",
     "fallback": null
   },
-  "macos": null,
-  "updatedAt": "2026-05-29T11:22:34.970Z"
+  "macos": {
+    "version": "0.2.1",
+    "tag": "v0.2.1",
+    "filename": "OmniStudio_0.2.1_aarch64.dmg",
+    "url": "https://studio.omnimind.com.cn/OmniStudio_0.2.1_aarch64.dmg",
+    "sha256": "3df22f756bda695d3a73899ed20a9ebd7fe502ca1aa7da628729d7b9eb27bb40",
+    "size": 258625830,
+    "sizeBytes": 258625830,
+    "publishedAt": "2026-05-29T14:01:28.830Z",
+    "fallback": null
+  },
+  "updatedAt": "2026-05-29T14:01:28.831Z"
 }
