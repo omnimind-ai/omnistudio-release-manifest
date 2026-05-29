@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "product": "OmniStudio",
+  "channel": "stable",
+  "version": "0.2.1",
+  "tag": "v0.2.1",
+  "sourceRelease": {
+    "version": "0.2.1",
+    "tag": "v0.2.1",
+    "url": "https://github.com/omnimind-ai/OmniStudio/releases/tag/v0.2.1",
+    "publishedAt": "2026-05-29T11:13:28Z",
+    "targetCommitish": "2b147fd334852762542c8ae2471a3ffc7bfc2ade"
+  },
+  "platforms": {
+    "windows": {
+      "version": "0.2.1",
+      "tag": "v0.2.1",
+      "filename": "OmniStudio_0.2.1_x64-setup.exe",
+      "url": "https://studio.omnimind.com.cn/OmniStudio_0.2.1_x64-setup.exe",
+      "sha256": "919dc84691872c7abe72e01ed841246bd34449ccf84de3b0eb1335077d4e1a0b",
+      "size": 315207535,
+      "sizeBytes": 315207535,
+      "publishedAt": "2026-05-29T11:22:34.969Z",
+      "fallback": null
+    }
+  },
+  "windows": {
+    "version": "0.2.1",
+    "tag": "v0.2.1",
+    "filename": "OmniStudio_0.2.1_x64-setup.exe",
+    "url": "https://studio.omnimind.com.cn/OmniStudio_0.2.1_x64-setup.exe",
+    "sha256": "919dc84691872c7abe72e01ed841246bd34449ccf84de3b0eb1335077d4e1a0b",
+    "size": 315207535,
+    "sizeBytes": 315207535,
+    "publishedAt": "2026-05-29T11:22:34.969Z",
+    "fallback": null
+  },
+  "macos": null,
+  "updatedAt": "2026-05-29T11:22:34.970Z"
+}
