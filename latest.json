@@ -2,14 +2,14 @@
   "schemaVersion": 1,
   "product": "OmniStudio",
   "channel": "stable",
-  "version": "0.2.1",
-  "tag": "v0.2.1",
+  "version": "0.2.2",
+  "tag": "v0.2.2",
   "sourceRelease": {
-    "version": "0.2.1",
-    "tag": "v0.2.1",
-    "url": "https://github.com/omnimind-ai/OmniStudio/releases/tag/v0.2.1",
-    "publishedAt": "2026-05-29T11:13:28Z",
-    "targetCommitish": "2b147fd334852762542c8ae2471a3ffc7bfc2ade"
+    "version": "0.2.2",
+    "tag": "v0.2.2",
+    "url": "https://github.com/omnimind-ai/OmniStudio/releases/tag/v0.2.2",
+    "publishedAt": "2026-06-02T12:56:41Z",
+    "targetCommitish": "main"
   },
   "platforms": {
     "windows": {
@@ -24,15 +24,24 @@
       "fallback": null
     },
     "macos": {
-      "version": "0.2.1",
-      "tag": "v0.2.1",
-      "filename": "OmniStudio_0.2.1_aarch64.dmg",
-      "url": "https://studio.omnimind.com.cn/OmniStudio_0.2.1_aarch64.dmg",
-      "sha256": "3df22f756bda695d3a73899ed20a9ebd7fe502ca1aa7da628729d7b9eb27bb40",
-      "size": 258625830,
-      "sizeBytes": 258625830,
-      "publishedAt": "2026-05-29T14:01:28.830Z",
-      "fallback": null
+      "version": "0.2.2",
+      "tag": "v0.2.2",
+      "filename": "OmniStudio_0.2.2_aarch64.dmg",
+      "url": "https://studio.omnimind.com.cn/OmniStudio_0.2.2_aarch64.dmg",
+      "sha256": "a36364232936c7c920fec58b94df6c9f23203a631931c05ef25ea9fd7e193d1a",
+      "size": 258613688,
+      "sizeBytes": 258613688,
+      "publishedAt": "2026-06-02T13:04:06.038Z",
+      "fallback": {
+        "version": "0.2.1",
+        "tag": "v0.2.1",
+        "filename": "OmniStudio_0.2.1_aarch64.dmg",
+        "url": "https://studio.omnimind.com.cn/OmniStudio_0.2.1_aarch64.dmg",
+        "sha256": "3df22f756bda695d3a73899ed20a9ebd7fe502ca1aa7da628729d7b9eb27bb40",
+        "size": 258625830,
+        "sizeBytes": 258625830,
+        "publishedAt": "2026-05-29T14:01:28.830Z"
+      }
     }
   },
   "windows": {
@@ -47,15 +56,24 @@
     "fallback": null
   },
   "macos": {
-    "version": "0.2.1",
-    "tag": "v0.2.1",
-    "filename": "OmniStudio_0.2.1_aarch64.dmg",
-    "url": "https://studio.omnimind.com.cn/OmniStudio_0.2.1_aarch64.dmg",
-    "sha256": "3df22f756bda695d3a73899ed20a9ebd7fe502ca1aa7da628729d7b9eb27bb40",
-    "size": 258625830,
-    "sizeBytes": 258625830,
-    "publishedAt": "2026-05-29T14:01:28.830Z",
-    "fallback": null
+    "version": "0.2.2",
+    "tag": "v0.2.2",
+    "filename": "OmniStudio_0.2.2_aarch64.dmg",
+    "url": "https://studio.omnimind.com.cn/OmniStudio_0.2.2_aarch64.dmg",
+    "sha256": "a36364232936c7c920fec58b94df6c9f23203a631931c05ef25ea9fd7e193d1a",
+    "size": 258613688,
+    "sizeBytes": 258613688,
+    "publishedAt": "2026-06-02T13:04:06.038Z",
+    "fallback": {
+      "version": "0.2.1",
+      "tag": "v0.2.1",
+      "filename": "OmniStudio_0.2.1_aarch64.dmg",
+      "url": "https://studio.omnimind.com.cn/OmniStudio_0.2.1_aarch64.dmg",
+      "sha256": "3df22f756bda695d3a73899ed20a9ebd7fe502ca1aa7da628729d7b9eb27bb40",
+      "size": 258625830,
+      "sizeBytes": 258625830,
+      "publishedAt": "2026-05-29T14:01:28.830Z"
+    }
   },
-  "updatedAt": "2026-05-29T14:01:28.831Z"
+  "updatedAt": "2026-06-02T13:04:06.268Z"
 }
